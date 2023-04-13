@@ -11,7 +11,7 @@ A software engineer with full-stack web development expertise, specializing in e
 </p>
 
 <p align="center">
- <a href="[https://stevengvan.github.io](https://stevengvan.github.io)" target="blank">
+ <a href="https://stevengvan.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="stevegvan" />
  </a>
  <a href="https://linkedin.com/in/steven-v-1a219a107" target="_blank">
