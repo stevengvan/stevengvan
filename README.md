@@ -27,7 +27,7 @@ A software engineer with full-stack web development expertise, specializing in e
  # About me
  
 <p>
- ✌️ &emsp; Enjoy to solve programming problems like a puzzle <br/><br/>
+ ✌️ &emsp; Enjoy programming problems like a puzzle <br/><br/>
  ❤️ &emsp; Horror and Roleplaying video game enjoyer and a doodling art enthusiast<br/><br/>
  📧 &emsp; Reach me anytime: vansteven17@gmail.com<br/><br/>
 </p>
