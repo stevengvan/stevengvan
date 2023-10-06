@@ -17,9 +17,6 @@ A software engineer with full-stack web development expertise, specializing in e
  <a href="https://linkedin.com/in/steven-v-1a219a107" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="stevegvan"/>
  </a>
- <a href="https://instagram.com/vansteven17" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="stevegvan" />
- </a> 
 </p>
 <br />
 
