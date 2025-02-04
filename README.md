@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h1 align="center">
-        Hello there! I am <b><a target="_blank" href="https://stevengvan.github.io">Steven Van</a></b>       
+        Hello? This is <b><a target="_blank" href="https://stevengvan.github.io">Steven</a></b>       
 </h1>
 
 
